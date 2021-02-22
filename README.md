@@ -7,7 +7,7 @@ PHP version 7 is recommended in running the script.
 
 # Usage
 
-1. Clone the repo `https://github.com/massquote/recommend-username.git`.
+1. Clone the repo `git@github.com:massquote/recommend-username.git`.
 2. Add your txt file in the /res folder. txt file should contain registered name. One line considered 1 record. Then update the path in line 17 of the index.php file.
 3. run the script by typing.
    
