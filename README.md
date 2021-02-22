@@ -7,13 +7,23 @@ PHP version 7 is recommended in running the script.
 
 # Usage
 
-1. Clone the repo `git clone git@github.com:massquote/recommend-username.git`.
-2. Navigate to /recommend-username folder. `cd recommend-username`.
-3. Checkout to master. `git checkout master`.
-4. Pull master files. `git pull origin master`.
+1. Clone the repo 
+  `git clone git@github.com:massquote/recommend-username.git`
+  
+2. Navigate to /recommend-username folder. 
+  `cd recommend-username`
+  
+3. Checkout to master. 
+   `git checkout master`
+
+4. Pull master files. 
+  `git pull origin master`
+  
 5. [OPTIONAL] Add your txt file in the /res folder. txt file should contain registered name. One line considered 1 record (see sample file). Then update the path in line 17 of the index.php file.
+
 6. run the script by typing.
-   
    `php index.php`
 
-4. Enter the email address then script will recommend the next username
+7. Enter the email address then script will recommend the next username. 
+8. DONE.
+
