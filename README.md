@@ -3,7 +3,7 @@
 This will recommend next available username based on the email address. The username will always be unique and will add a number suffix at the end of the base email address. The number is sequencial number and will increment accordingly. If there is a missing number in the sequence it will used that missing number as a suffix of the base email address.
 
 PHP version 7 is recommended in running the script.
-
+Make sure you can execute php script in your command line by typing `php -v`
 
 # Usage
 
